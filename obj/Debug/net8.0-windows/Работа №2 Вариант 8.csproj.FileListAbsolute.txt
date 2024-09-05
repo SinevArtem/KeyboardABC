@@ -1,0 +1,18 @@
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №2 Вариант 8\bin\Debug\net8.0-windows\Работа №2 Вариант 8.exe
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №2 Вариант 8\bin\Debug\net8.0-windows\Работа №2 Вариант 8.deps.json
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №2 Вариант 8\bin\Debug\net8.0-windows\Работа №2 Вариант 8.runtimeconfig.json
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №2 Вариант 8\bin\Debug\net8.0-windows\Работа №2 Вариант 8.dll
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №2 Вариант 8\bin\Debug\net8.0-windows\Работа №2 Вариант 8.pdb
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №2 Вариант 8\obj\Debug\net8.0-windows\Работа__2_Вариант_8.Form1.resources
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №2 Вариант 8\obj\Debug\net8.0-windows\Работа №2 Вариант 8.csproj.GenerateResource.cache
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №2 Вариант 8\obj\Debug\net8.0-windows\Работа №2 Вариант 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №2 Вариант 8\obj\Debug\net8.0-windows\Работа №2 Вариант 8.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №2 Вариант 8\obj\Debug\net8.0-windows\Работа №2 Вариант 8.AssemblyInfo.cs
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №2 Вариант 8\obj\Debug\net8.0-windows\Работа №2 Вариант 8.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №2 Вариант 8\obj\Debug\net8.0-windows\Работа №2 Вариант 8.dll
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №2 Вариант 8\obj\Debug\net8.0-windows\refint\Работа №2 Вариант 8.dll
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №2 Вариант 8\obj\Debug\net8.0-windows\Работа №2 Вариант 8.pdb
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №2 Вариант 8\obj\Debug\net8.0-windows\Работа №2 Вариант 8.genruntimeconfig.cache
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №2 Вариант 8\obj\Debug\net8.0-windows\ref\Работа №2 Вариант 8.dll
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №2 Вариант 8\obj\Debug\net8.0-windows\Работа__2_Вариант_8.Form2.resources
+C:\Users\Home\Documents\C#\ВУЗ ТВП\Работа №2 Вариант 8\obj\Debug\net8.0-windows\Работа__2_Вариант_8.UserControl1.resources
